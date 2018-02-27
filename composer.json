@@ -22,7 +22,7 @@
     "require": {
         "php": ">=5.3.3",
         "symfony/framework-bundle": "~2.1|3.*|4.*",
-        "kigkonsult/icalcreator": "dev-master"
+        "kigkonsult/icalcreator": "^2.24"
     },
     "autoload": {
         "psr-4": { "BOMO\\IcalBundle\\": "" }
